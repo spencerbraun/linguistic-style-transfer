@@ -1,13 +1,11 @@
 # Custom
 logs/
-output/
 saved-models/
 saved-models-classifier/
 word-embeddings/
 tests/
 tensorflow-logs/
 language-models/
-data/
 .idea/
 .vscode/
 
